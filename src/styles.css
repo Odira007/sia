@@ -352,3 +352,23 @@ body::-webkit-scrollbar {
     text-transform: capitalize;
     margin-top: 70px;
 }
+
+.art-gallery .gallery{
+    width: 100vw;
+    padding: 12rem 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px 30px;
+}
+
+.drawings {
+    width: 500px;
+    height: 600px
+}
+
+.art-title {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+}
